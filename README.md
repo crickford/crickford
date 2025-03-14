@@ -65,7 +65,7 @@ We are not cogs in a machine or bricks in a wall. But we also co-create the envi
     - Distribute an agenda at least 24hrs before the meeting, in a form where folks can add comments / questions ahead of time
     - Respect participant's time by sticking to the agenda and ending the meeting at it's scheduled time
     - Capture outcomes & share publicly with 24h after the meeting has ended
-    - Don't waste any individual's time / compromise their ability to contribute by doing this manually ^ (having someone take notes). It's 2025 - let the computers do this for us (fathom.video, otter.ai, etc) 🤖
+    - Don't waste any individual's time / compromise their ability to contribute by doing this manually ^ (having someone take notes). It's 2023 - let the computers do this for us (fathom.video, otter.ai, etc) 🤖
   - Build in time for general chatter & social connection - have informal 1 on 1 chats
   - engage in interest-based slack channels - work on discovery time projects with people from other teams
   - protect time at the team level by building it into the regularly occurring rituals. Examples:
